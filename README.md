@@ -11,7 +11,9 @@
   <a href="https://www.linkedin.com/in/long-dang1109/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
+</div> 
+
+[![Follow me on HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-lg.svg)](https://huggingface.co/NoAtmosphere0)
 
 ____
 ### My GitHub stats
