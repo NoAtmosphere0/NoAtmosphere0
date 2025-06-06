@@ -1,6 +1,7 @@
 ### Hi and welcome to my GitHub profile, do enjoy your vist here ✨✨✨
 
 ## My favorite project
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NoAtmosphere0&repo=SadTalker-WS-API&theme=prussian)](https://github.com/NoAtmosphere0/SadTalker-WS-API)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NoAtmosphere0&repo=projects&theme=prussian)](https://github.com/NoAtmosphere0/projects)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NoAtmosphere0&repo=portfolio_website&theme=prussian)](https://github.com/NoAtmosphere0/portfolio_website)
 
